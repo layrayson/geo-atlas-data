@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-09-12T14:03:49.387Z",
+  "generatedAt": "2026-09-12T15:13:40.498Z",
   "entries": [
     {
-      "country": "NGA",
+      "country": "AFG",
       "level": "admin1",
       "resolution": "simplified",
-      "path": "data/NGA/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
-        "sourceName": "GRID3",
-        "sourceDataUpdateDate": "Sun Feb 26 12:26:14 2023",
-        "sourceUrl": "data.grid3.org/datasets/grid3-nigeria-state-boundaries/explore?location=8.992006%2C8.685290%2C6.82"
-      },
-      "featureCount": 37
-    },
-    {
-      "country": "KEN",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/KEN/admin1-simplified.geojson",
+      "path": "data/AFG/admin1-simplified.geojson",
       "source": {
         "provider": "geoBoundaries",
         "license": "Public Domain",
-        "sourceName": "RCMRD GeoPortal, Africa GeoPortal",
+        "sourceName": "Wikimedia, geoBoundaries",
         "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
-        "sourceUrl": "rcmrd.africageoportal.com/datasets/africageoportal"
-      },
-      "featureCount": 47
-    },
-    {
-      "country": "GBR",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/GBR/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
-        "sourceName": "Eurostat- European Commission",
-        "sourceDataUpdateDate": "Sat Apr 22 13:00:40 2023",
-        "sourceUrl": "ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
-      },
-      "featureCount": 4
-    },
-    {
-      "country": "USA",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/USA/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Public Domain",
-        "sourceName": "United States Census Bureau, MAF/TIGER Database",
-        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
-        "sourceUrl": "www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html"
-      },
-      "featureCount": 56
-    },
-    {
-      "country": "IND",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/IND/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
-        "sourceName": "DataMeet India community, Election Commission of India",
-        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
-        "sourceUrl": "github.com/datameet/maps"
-      },
-      "featureCount": 36
-    },
-    {
-      "country": "BRA",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/BRA/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Creative Commons Attribution 2.5 Generic",
-        "sourceName": "geoBoundaries, Wikimedia Commons",
-        "sourceDataUpdateDate": "Mon Apr 17 21:17:52 2023",
-        "sourceUrl": "commons.wikimedia.org/wiki/File"
-      },
-      "featureCount": 27
-    },
-    {
-      "country": "CHN",
-      "level": "admin1",
-      "resolution": "simplified",
-      "path": "data/CHN/admin1-simplified.geojson",
-      "source": {
-        "provider": "geoBoundaries",
-        "license": "Public Domain",
-        "sourceName": "geoBoundaries, Wikimedia Commons",
-        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
-        "sourceUrl": "commons.wikimedia.org/wiki/File"
+        "sourceUrl": "en.wikipedia.org/wiki/Provinces_of_Afghanistan"
       },
       "featureCount": 34
     },
     {
-      "country": "ZAF",
+      "country": "AGO",
       "level": "admin1",
       "resolution": "simplified",
-      "path": "data/ZAF/admin1-simplified.geojson",
+      "path": "data/AGO/admin1-simplified.geojson",
       "source": {
         "provider": "geoBoundaries",
-        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
-        "sourceName": "OCHA ROSEA, South African Municipal Demarcation Board",
+        "license": "Public Domain",
+        "sourceName": "U.S. Census Bureau",
         "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
-        "sourceUrl": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+        "sourceUrl": "www.census.gov/geographies/mapping-files/time-series/demo/international-programs/subnationalpopulation.html"
       },
-      "featureCount": 9
+      "featureCount": 18
+    },
+    {
+      "country": "ALB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ALB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "AND",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/AND/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "upload.wikimedia.org/wikipedia/commons/c/c5/0_Andorra_parishes_all.svg"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "ARE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ARE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "ARG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ARG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 23
+    },
+    {
+      "country": "ARM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ARM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "ATG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ATG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 8
     },
     {
       "country": "AUS",
@@ -128,6 +128,692 @@
       "featureCount": 9
     },
     {
+      "country": "AUT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/AUT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "geoBoundaries, Federal Office for Metrology and Survey, Austria",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.bev.gv.at/portal/page?_pageid=713,2639317&_dad=portal&_schema=PORTAL"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "AZE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/AZE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "geoBoundaries, OpenStreetMap",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.openstreetmap.org/search?query=azerbaijan#map=7/40.195/47.886"
+      },
+      "featureCount": 2
+    },
+    {
+      "country": "BDI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BDI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "BEL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BEL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Eurostat- European Commission",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+      },
+      "featureCount": 3
+    },
+    {
+      "country": "BEN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BEN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "BFA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BFA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "World Bank",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "datacatalog.worldbank.org/dataset/burkina-faso-administrative-boundaries-2017"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "BGD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BGD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "BGR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BGR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 28
+    },
+    {
+      "country": "BHR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BHR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "BHS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BHS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Haiti GeoPortal",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "//haiti.caribbeangeoportal.com/datasets/caribgeoportal"
+      },
+      "featureCount": 32
+    },
+    {
+      "country": "BIH",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BIH/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Wikimedia Commons",
+        "sourceDataUpdateDate": "Wed Feb 21 08:01:51 2024",
+        "sourceUrl": "en.wikipedia.org/wiki/Political_divisions_of_Bosnia_and_Herzegovina"
+      },
+      "featureCount": 3
+    },
+    {
+      "country": "BLR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BLR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "geoBoundaries, CIESIN",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "sedac.ciesin.columbia.edu/data/collection/gpw-v3/maps/gallery/search?facets=region"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "BLZ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BLZ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Wed Feb 22 15:10:30 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "BOL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BOL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "GeoBolivia, Derived from ADM3 layer",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "BRA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BRA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Mon Apr 17 21:17:52 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 27
+    },
+    {
+      "country": "BRB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BRB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "BRN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BRN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons; credit to user 'Tachymetre'",
+        "sourceDataUpdateDate": "Wed May 3 23:20:00 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "BTN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BTN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "geoBoundaries, Wikimedia Commons; credit to author 'Babbage'",
+        "sourceDataUpdateDate": "Wed May 3 23:23:22 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 20
+    },
+    {
+      "country": "BWA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BWA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "CAF",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CAF/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 17
+    },
+    {
+      "country": "CAN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CAN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Government Canada 2.0",
+        "sourceName": "Statistics Canada (StatCan)",
+        "sourceDataUpdateDate": "Fri Apr 7 13:57:16 2023",
+        "sourceUrl": "www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "CHE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CHE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Federal Office of Topography swisstopo License",
+        "sourceName": "Federal Office of Topography swisstopo",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.swisstopo.admin.ch/en/geodata/landscape/boundaries3d.html"
+      },
+      "featureCount": 26
+    },
+    {
+      "country": "CHL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CHL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "La Biblioteca del Congreso Nacional de Chile (BCN), OCHA ROLAC",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/chile-administrative-level-0-country-1-region-region"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "CHN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CHN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 34
+    },
+    {
+      "country": "CIV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CIV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "World Bank Group, OCHA Côte d’Ivoire",
+        "sourceDataUpdateDate": "Wed Aug 30 10:51:06 2023",
+        "sourceUrl": "datacatalog.worldbank.org/dataset/cote-divoire-administrative-boundaries-2016"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "CMR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CMR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "COD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/COD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 26
+    },
+    {
+      "country": "COG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/COG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "COL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/COL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 33
+    },
+    {
+      "country": "COM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/COM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 3
+    },
+    {
+      "country": "CPV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CPV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "CRI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CRI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "CUB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CUB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "CYP",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CYP/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "CZE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CZE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Czech Office for Surveying",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "geoportal.cuzk.cz/(S(0jvahy1mipdkur5tenlb1uhp))/Default.aspx?lng=EN&mode=TextMeta&side=dsady_RUIAN&metadataID=CZ-CUZK-SH-V&mapid=5&menu=252"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "DEU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DEU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Data license Germany - Attribution - Version 2.0",
+        "sourceName": "Federal Agency for Cartography and Geodesy",
+        "sourceDataUpdateDate": "Sun Feb 26 12:29:46 2023",
+        "sourceUrl": "gdz.bkg.bund.de/index.php/default/digitale-geodaten/verwaltungsgebiete/nuts-gebiete-1-250-000-stand-31-12-nuts250-31-12.html"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "DJI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DJI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "DMA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DMA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "DNK",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DNK/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "geoBoundaries, Web Vectors Map",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "webvectormaps.com/administrative-map-of-denmark-by-regions/"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "DOM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DOM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Thu May 4 20:55:12 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      },
+      "featureCount": 32
+    },
+    {
+      "country": "DZA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/DZA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 48
+    },
+    {
+      "country": "ECU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ECU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 24
+    },
+    {
+      "country": "EGY",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/EGY/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 27
+    },
+    {
+      "country": "ERI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ERI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "ESP",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ESP/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Instituto de Geografico Nacional",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "centrodedescargas.cnig.es/CentroDescargas/index.jsp"
+      },
+      "featureCount": 19
+    },
+    {
+      "country": "EST",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/EST/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 15
+    },
+    {
+      "country": "ETH",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ETH/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Open Africa, Code for Ethiopia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "africaopendata.org/dataset/ethiopia-shapefiles"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "FIN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/FIN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 19
+    },
+    {
+      "country": "FJI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/FJI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "en.wikipedia.org/wiki/File"
+      },
+      "featureCount": 4
+    },
+    {
       "country": "FRA",
       "level": "admin1",
       "resolution": "simplified",
@@ -140,6 +826,1938 @@
         "sourceUrl": "geoservices.ign.fr/adminexpress"
       },
       "featureCount": 13
+    },
+    {
+      "country": "FSM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/FSM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "OCHA ROP, Federated States of Micronesia Division of Statistics, 2010 Census of Population and Housing and Secretariat of the Pacific Community, Statistics for Development Division",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/fsm-2010-administrative-level-0-2-boundaries"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "GAB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GAB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+        "sourceName": "geoBoundaries, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "en.wikipedia.org/wiki/Subdivisions_of_Gabon#/media/File"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "GBR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GBR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Eurostat- European Commission",
+        "sourceDataUpdateDate": "Sat Apr 22 13:00:40 2023",
+        "sourceUrl": "ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "GEO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GEO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "GHA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GHA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "Open Street Map",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "osm-boundaries.com/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "GIN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GIN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "World Food Programme, OCHA ROWCA",
+        "sourceDataUpdateDate": "Wed Aug 30 12:59:14 2023",
+        "sourceUrl": "ckan.ev.openindustry.in/pt_BR/dataset/guinea-geodatabase/resource/4ed92c38-a5ea-4c53-a4c8-1b01f2fcec32?inner_span=True"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "GMB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GMB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Knippenberg, Erwin, & Moritz, Meyer. “The Hidden Potential of Mobile Phone Data Insights on COVID-19 in the Gambia.” Data Blog, The World Bank Data Catalog",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "blogs.worldbank.org/opendata/hidden-potential-mobile-phone-data-insights-covid-19-gambia"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "GNB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GNB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "GNQ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GNQ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "GRC",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GRC/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "EuroGeoGraphics, Regional IM Working Group - Europe",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/gree"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "GRD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GRD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "OpenStreetMap, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.openstreetmap.org/copyright"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "GRL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GRL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+        "sourceName": "GeoBoundaries, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "en.wikipedia.org/wiki/Qeqertalik#/media/File"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "GTM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GTM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "GUY",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GUY/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "osm-boundaries.com"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "HND",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/HND/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "HRV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/HRV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 21
+    },
+    {
+      "country": "HTI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/HTI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "HUN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/HUN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 19
+    },
+    {
+      "country": "IDN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IDN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 34
+    },
+    {
+      "country": "IND",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IND/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+        "sourceName": "DataMeet India community, Election Commission of India",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "github.com/datameet/maps"
+      },
+      "featureCount": 36
+    },
+    {
+      "country": "IRL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IRL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Ordce Survey Ireland",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data-osi.opendata.arcgis.com/datasets/cac5ddcbbe934edc881d1611c6b910c7/explore?location=53.390427%2C-8.379110%2C7.80"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "IRN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IRN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 32
+    },
+    {
+      "country": "IRQ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IRQ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "ISL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ISL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "ISR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ISR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "en.wikipedia.org/wiki/Wikipedia"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "ITA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ITA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "ISTAT, National Institute of Statistics",
+        "sourceDataUpdateDate": "Wed Aug 16 14:38:11 2023",
+        "sourceUrl": "www.istat.it/it/archivio/222527"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "JAM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/JAM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "JOR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/JOR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "JPN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/JPN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "osm-boundaries.com"
+      },
+      "featureCount": 47
+    },
+    {
+      "country": "KAZ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KAZ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "KEN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KEN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "RCMRD GeoPortal, Africa GeoPortal",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "rcmrd.africageoportal.com/datasets/africageoportal"
+      },
+      "featureCount": 47
+    },
+    {
+      "country": "KGZ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KGZ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "KHM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KHM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 25
+    },
+    {
+      "country": "KIR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KIR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 3
+    },
+    {
+      "country": "KNA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KNA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "OpenStreetMap",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "osm-boundaries.com/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "KOR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KOR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      },
+      "featureCount": 17
+    },
+    {
+      "country": "KWT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KWT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "LAO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LAO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "LBN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LBN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "upload.wikimedia.org/wikipedia/commons/c/c9/North_Governorate1.png"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "LBR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LBR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "UNMIL, OCHA ROWCA",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/liberia-admin-level-2-boundaries"
+      },
+      "featureCount": 15
+    },
+    {
+      "country": "LBY",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LBY/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "LCA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LCA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "Wikimedia Commons, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "LIE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LIE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "LKA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LKA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "LSO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LSO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "LTU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LTU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "LUX",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LUX/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "LVA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/LVA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Geoportal of Latvia",
+        "sourceDataUpdateDate": "Tue Mar 21 13:39:02 2023",
+        "sourceUrl": "geolatvija.lv/geo/p/658"
+      },
+      "featureCount": 43
+    },
+    {
+      "country": "MAR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MAR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "MCO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MCO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 1
+    },
+    {
+      "country": "MDA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MDA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "UNHCR, OCHA FISS",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/moldova-administrative-level-0-1-boundaries"
+      },
+      "featureCount": 37
+    },
+    {
+      "country": "MDG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MDG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "MDV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MDV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 21
+    },
+    {
+      "country": "MEX",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MEX/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Instituto Nacional de Estadística y Geografía (INEGI)",
+        "sourceDataUpdateDate": "Wed Feb 21 08:01:17 2024",
+        "sourceUrl": "data.humdata.org/dataset/mexican-administrative-level-0-country-1-estado-and-2-municipio-boundary-polygons"
+      },
+      "featureCount": 32
+    },
+    {
+      "country": "MHL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MHL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 24
+    },
+    {
+      "country": "MKD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MKD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office), Regional IM Working Group - Europe",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/fyrom-administrative-levels-1-4-from-eurogeographics-and-ntes"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "MLI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MLI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "DNCT - Direction Nationale des Collectivités Territoriales, United Nations Office for the Coordination of Humanitarian Affairs, Mali",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/administrative-boundaries-cod-mli"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "MLT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MLT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, d-maps.com",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "d-maps.com/carte.php?num_car=60336&lang=en"
+      },
+      "featureCount": 68
+    },
+    {
+      "country": "MMR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MMR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Myanmar Analytics Project, geoBoundaries",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.mmanalytics.org/dataset/border-shapefiles/resource/b641b45f-898d-483b-986d-f9763af4f6c6"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "MNE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MNE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 23
+    },
+    {
+      "country": "MNG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MNG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "MOZ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MOZ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "MRT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MRT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+        "sourceName": "Princeton University Library",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "maps.princeton.edu/catalog/stanford-nw291zj7245"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "MUS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MUS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "geoBoundaries, OpenStreetMap",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "MWI",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MWI/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 3
+    },
+    {
+      "country": "MYS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/MYS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "NAM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NAM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Fri Apr 21 14:54:43 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "NER",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NER/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "IPUMS DHS",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.idhsdata.org/idhs/gis.shtml"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "NGA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NGA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "GRID3",
+        "sourceDataUpdateDate": "Sun Feb 26 12:26:14 2023",
+        "sourceUrl": "data.grid3.org/datasets/grid3-nigeria-state-boundaries/explore?location=8.992006%2C8.685290%2C6.82"
+      },
+      "featureCount": 37
+    },
+    {
+      "country": "NIC",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NIC/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 17
+    },
+    {
+      "country": "NIU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NIU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Pacific Data Hub",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "pacificdata.org/data/dataset/2011_niu_phc_admin_boundaries"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "NLD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NLD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+        "sourceName": "National Georegister",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/208bc283-7c66-4ce7-8ad3-1cf3e8933fb5?tab=relations"
+      },
+      "featureCount": 12
+    },
+    {
+      "country": "NOR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NOR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Kartverket",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "kartkatalog.geonorge.no/metadata/administrative-enheter-fylker/6093c8a8-fa80-11e6-bc64-92361f002671"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "NPL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NPL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Survey Department of Nepal, OCHA FISS",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/administrative-bounadries-of-nepal"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "NRU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NRU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, FreeMapViewer",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.freemapviewer.org/en/map/Map-World_331.html"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "NZL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NZL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "NZ Stats",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.stats.govt.nz/browse_for_stats/Maps_and_geography/Geographic-areas/digital-boundary-files.aspx"
+      },
+      "featureCount": 17
+    },
+    {
+      "country": "OMN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/OMN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "PAK",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PAK/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 7
+    },
+    {
+      "country": "PAN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PAN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "PER",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PER/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Wikimedia Commons",
+        "sourceDataUpdateDate": "Wed Feb 21 08:01:37 2024",
+        "sourceUrl": "en.wikipedia.org/wiki/Administrative_divisions_of_Peru"
+      },
+      "featureCount": 26
+    },
+    {
+      "country": "PHL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PHL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA), OCHA Philippines",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/philippines-administrative-levels-0-to-3"
+      },
+      "featureCount": 17
+    },
+    {
+      "country": "PLW",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PLW/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "PNG",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PNG/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Papua New Guinea National Statistics Office, OCHA ROAP",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/papua-new-guinea-admin-level-0-international-boundaries"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "POL",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/POL/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 16
+    },
+    {
+      "country": "PRK",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PRK/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "World Food Programme, OCHA ROAP",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/dpr-korea-administrative-boundaries"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "PRT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PRT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "DG Territory",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/metadata/5e3debf1-6cde-4ff2-8301-a86799231907"
+      },
+      "featureCount": 20
+    },
+    {
+      "country": "PRY",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PRY/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Direcion General de Estadica, Encuestas y Censos",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "geo.stp.gov.py/user/dgeec/tables/paraguay_2012_departamentos/public"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "PSE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/PSE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "geoBoundaries, Open Data Watch",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "opendatawatch.com/about/"
+      },
+      "featureCount": 2
+    },
+    {
+      "country": "QAT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/QAT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "geoBoundaries, Qatar Open Data Portal",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.data.gov.qa/explore/dataset/gis-statistics/export/"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "ROU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ROU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "World Bank",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.arcgis.com/home/item.html?id=361134ff4ff44e78a9aeec01af9a5175"
+      },
+      "featureCount": 42
+    },
+    {
+      "country": "RUS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/RUS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 83
+    },
+    {
+      "country": "RWA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/RWA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "The Rwanda Geo Portal",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "rwanda.africageoportal.com/datasets/dac12729b2cd4f0db92fddaa6a80460d_0"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "SAU",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SAU/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "SDN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SDN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Information Management Working Group (IMWG), OCHA ROSEA",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/sudan-administrative-boundaries-levels-0-2"
+      },
+      "featureCount": 19
+    },
+    {
+      "country": "SEN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SEN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Government of Senegal, OCHA ROWCA",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/senegal-administrative-boundaries"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "SGP",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SGP/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "Urban Redevelopment Authority, derived from ADM 3",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.gov.sg/dataset/master-plan-2014-subzone-boundary-no-sea"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "SLB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SLB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "Natural Earth",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "SLE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SLE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Government of Sierra Leone, OCHA ROWCA",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/sierra-leone-all-ad-min-level-boundaries"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "SLV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SLV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "Open Street Map",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "osm-boundaries.com/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "SMR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SMR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "SOM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SOM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 18
+    },
+    {
+      "country": "SRB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SRB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 25
+    },
+    {
+      "country": "SSD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SSD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "South Sudan Information Management Working Group (IMWG), National Bureau of Statistics (NBS), and OCHA, OCHA South Sudan",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/south-sudan-administrative-boundaries"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "STP",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/STP/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 2
+    },
+    {
+      "country": "SUR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SUR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "SVK",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SVK/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "SVN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SVN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+        "sourceName": "Eurostat- European Commission",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+      },
+      "featureCount": 2
+    },
+    {
+      "country": "SWE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SWE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 License",
+        "sourceName": "geoBoundaries, Erik Frohne",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "upload.wikimedia.org/wikipedia/commons/3/31/Sweden_Uppsala_location_map.svg"
+      },
+      "featureCount": 21
+    },
+    {
+      "country": "SWZ",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SWZ/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "SYC",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SYC/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+        "sourceName": "Digitizedhttps, Digitizedhttps",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 26
+    },
+    {
+      "country": "SYR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/SYR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "United Nations Cartographic Section (UNCS) and United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA), OCHA ROSC",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/syrian-arab-republic-administrative-boundaries-populated-places"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "TCD",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TCD/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 23
+    },
+    {
+      "country": "TGO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TGO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "THA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/THA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 77
+    },
+    {
+      "country": "TJK",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TJK/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "TKM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TKM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "TLS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TLS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 13
+    },
+    {
+      "country": "TON",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TON/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 5
+    },
+    {
+      "country": "TTO",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TTO/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "TUN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TUN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 24
+    },
+    {
+      "country": "TUR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TUR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 2.0",
+        "sourceName": "Open Street Map",
+        "sourceDataUpdateDate": "Thu Aug 31 09:55:30 2023",
+        "sourceUrl": "osm-boundaries.com/"
+      },
+      "featureCount": 81
+    },
+    {
+      "country": "TUV",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TUV/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 8
+    },
+    {
+      "country": "TWN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TWN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "TZA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/TZA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 30
+    },
+    {
+      "country": "UGA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/UGA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "UKR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/UKR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 27
+    },
+    {
+      "country": "URY",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/URY/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 19
+    },
+    {
+      "country": "USA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/USA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "United States Census Bureau, MAF/TIGER Database",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html"
+      },
+      "featureCount": 56
+    },
+    {
+      "country": "UZB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/UZB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 14
+    },
+    {
+      "country": "VCT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/VCT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "VEN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/VEN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "OCHA Venezuela, Instituto Nacional de Estadística",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/venezuela-administrative-level-0-1-and-2-boundaries"
+      },
+      "featureCount": 25
+    },
+    {
+      "country": "VNM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/VNM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/Category"
+      },
+      "featureCount": 64
+    },
+    {
+      "country": "VUT",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/VUT/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 6
+    },
+    {
+      "country": "WSM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/WSM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+        "sourceName": "Wikipedia",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "en.wikipedia.org/wiki/File"
+      },
+      "featureCount": 11
+    },
+    {
+      "country": "YEM",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/YEM/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Open Data Commons Open Database License 1.0",
+        "sourceName": "OpenStreetMap, Wambacher",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "wambachers-osm.website/boundaries/"
+      },
+      "featureCount": 22
+    },
+    {
+      "country": "ZAF",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ZAF/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "OCHA ROSEA, South African Municipal Demarcation Board",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "ZMB",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ZMB/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Zambia Data Hub",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "zambia-nsdi-mlnr.hub.arcgis.com/datasets/6fe71ff483ab491782c8524ec3d1a3b8_0/about"
+      },
+      "featureCount": 10
+    },
+    {
+      "country": "ZWE",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ZWE/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "Zimbabwe National Statistics Agency (ZIMSTAT www.zimstat.co.zw) Central Statistics Office, OCHA ROSEA",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/zimbabwe-administrative-levels-0-3-boundaries"
+      },
+      "featureCount": 10
     }
   ]
 }

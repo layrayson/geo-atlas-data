@@ -14,7 +14,7 @@ See [manifest.json](./manifest.json) for exactly which countries are mirrored, t
 
 ## Coverage
 
-Currently mirrors the 10 countries validated in `@geo-atlas/core`'s spike 01 (admin1 level, simplified resolution): NGA, KEN, GBR, USA, IND, BRA, CHN, ZAF, AUS, FRA. More countries can be added by re-running `scripts/build-mirror.ts` in the main repo.
+Mirrors 197 of 249 ISO 3166-1 countries/territories at admin1 level, simplified resolution. The 52 not mirrored are dependent territories, microstates, and a few disputed entities that geoBoundaries.org doesn't publish ADM1 (state/province-level) data for — e.g. Bermuda, Hong Kong, Puerto Rico, Vatican City, Antarctica. See `manifest.json` for the exact list, or re-run `scripts/build-mirror.ts` in the main repo to regenerate.
 
 ## License
 
