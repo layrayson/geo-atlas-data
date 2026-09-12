@@ -1,0 +1,145 @@
+{
+  "generatedAt": "2026-09-12T14:03:49.387Z",
+  "entries": [
+    {
+      "country": "NGA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/NGA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "GRID3",
+        "sourceDataUpdateDate": "Sun Feb 26 12:26:14 2023",
+        "sourceUrl": "data.grid3.org/datasets/grid3-nigeria-state-boundaries/explore?location=8.992006%2C8.685290%2C6.82"
+      },
+      "featureCount": 37
+    },
+    {
+      "country": "KEN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/KEN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "RCMRD GeoPortal, Africa GeoPortal",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "rcmrd.africageoportal.com/datasets/africageoportal"
+      },
+      "featureCount": 47
+    },
+    {
+      "country": "GBR",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/GBR/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Eurostat- European Commission",
+        "sourceDataUpdateDate": "Sat Apr 22 13:00:40 2023",
+        "sourceUrl": "ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts"
+      },
+      "featureCount": 4
+    },
+    {
+      "country": "USA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/USA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "United States Census Bureau, MAF/TIGER Database",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html"
+      },
+      "featureCount": 56
+    },
+    {
+      "country": "IND",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/IND/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)",
+        "sourceName": "DataMeet India community, Election Commission of India",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "github.com/datameet/maps"
+      },
+      "featureCount": 36
+    },
+    {
+      "country": "BRA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/BRA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 2.5 Generic",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Mon Apr 17 21:17:52 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 27
+    },
+    {
+      "country": "CHN",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/CHN/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Public Domain",
+        "sourceName": "geoBoundaries, Wikimedia Commons",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "commons.wikimedia.org/wiki/File"
+      },
+      "featureCount": 34
+    },
+    {
+      "country": "ZAF",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/ZAF/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+        "sourceName": "OCHA ROSEA, South African Municipal Demarcation Board",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "data.humdata.org/dataset/south-africa-admin-level-1-boundaries"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "AUS",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/AUS/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+        "sourceName": "Australian Bureau of Statistics",
+        "sourceDataUpdateDate": "Mon Apr 3 09:47:39 2023",
+        "sourceUrl": "www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files/STE_2021_AUST_SHP_GDA2020.zip"
+      },
+      "featureCount": 9
+    },
+    {
+      "country": "FRA",
+      "level": "admin1",
+      "resolution": "simplified",
+      "path": "data/FRA/admin1-simplified.geojson",
+      "source": {
+        "provider": "geoBoundaries",
+        "license": "Etalab Open License 2.0",
+        "sourceName": "Institut national de l'information géographique et forestière (IGN-F)",
+        "sourceDataUpdateDate": "Thu Jan 19 07:31:04 2023",
+        "sourceUrl": "geoservices.ign.fr/adminexpress"
+      },
+      "featureCount": 13
+    }
+  ]
+}
